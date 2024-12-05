@@ -1,7 +1,7 @@
-Projeto Mobile Coding
-Sistemas de Informação - Uni7
+Projeto Mobile Coding - 
+Sistemas de Informação - Uni7 - 
 3° período
 
-Cahuan Lacerda Abreu
-Graziele Tavares
-Leomagno Mendes
+Cahuan Lacerda Abreu - 
+Graziele Tavares - 
+Leomagno Mendes - 
